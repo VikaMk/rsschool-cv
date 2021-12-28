@@ -43,3 +43,9 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Languages
+
+- English - C1(C2) according to EF SET [online test results](https://www.efset.org/cert/egaX4R)
+
+- Russian - Native
