@@ -21,3 +21,25 @@
 -  JavaScript textbook on  [learnjavascript.ru](https://learn.javascript.ru/)  (in progress)
 
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Skills
+
+- HTML5 
+
+- CSS3
+
+- JavaScript basics
+
+- VS Code
+
+- Git, GitHub
+
+- Figma
+
+## Code example
+
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+```
